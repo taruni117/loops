@@ -35,4 +35,3 @@ print("lowest marks",lowest_marks)
 print("total marks",total_marks)
 print("average",average)'''
 
-#caluclate hostel fee+couse fee
